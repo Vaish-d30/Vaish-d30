@@ -9,7 +9,7 @@ I am currently a 3rd-year Artificial Intelligence and Data Science (AI&DS) stude
 * 🌍  I'm based in Navi Mumbai,India
 * ✉️  You can contact me at [vaishnavidesai3028@gmail.com](mailto:vaishnavidesai3028@gmail.com)
 * 🧠  I'm learning AI and Data Science
-* 🤝  I'm open to collaborating on Wen development, App Development & Machine Learning
+* 🤝  I'm open to collaborating on Web development, App Development & Machine Learning
 
 ### Skills
 
