@@ -1,24 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaishnavi Sunil Desai
-=============================================================================================================================================
+# 💫 Vaishnavi Desai
 
-A Student studying AI & Data Science
-------------------------------------
+**AI Engineer in Progress | GenAI Developer | Final Year AI & DS Student**
 
-I am currently a 3rd-year Artificial Intelligence and Data Science (AI&DS) student at Mumbai University. I completed my computer engineering diploma in 2023. I aspire to be a data scientist and consider myself a decent coder.
+Hey there! I’m Vaishnavi — a final year engineering student passionate about building smart, user-focused tools with GenAI, LLMs, and automation. I love blending code with creativity to solve real-world problems.
 
-* 🌍  I'm based in Navi Mumbai,India
-* ✉️  You can contact me at [vaishnavidesai3028@gmail.com](mailto:vaishnavidesai3028@gmail.com)
-* 🧠  I'm learning AI and Data Science
-* 🤝  I'm open to collaborating on Web development, App Development & Machine Learning
+---
 
-### Skills
+## 🛠️ Tech I Play With
 
+- **Languages:** Python, SQL  
+- **GenAI Stack:** LangChain, Vertex AI, OpenAI APIs  
+- **Tools:** Streamlit, Gradio, Pandas, NumPy, Git  
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-</p>
+---
 
+## 🌱 Currently Exploring
 
-### Socials
+- GenAI apps & agents with LangChain + GCP  
+- Prompt engineering & LLM experimentation  
+- Consistent DSA practice and system design prep  
 
-<p align="left"> <a href="https://www.github.com/Vaish-d30" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/vaishnavid30" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](#)  
+- 🌐 Portfolio coming soon...
+
+---
+
+*Always learning. Always building.*
