@@ -24,7 +24,7 @@ Hey there! I’m Vaishnavi — a final year engineering student passionate about
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](#)  
+- 💼 [www.linkedin.com/in/vaishnavi-sunil-desai](#)  
 - 🌐 Portfolio coming soon...
 
 ---
